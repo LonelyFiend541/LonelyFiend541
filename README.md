@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LonelyFiend541
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning HTML5
+- 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on HTML5 projects
 - 📫 You can reach me on my email henrique.souzasoares006@gmail.com
 <!---
